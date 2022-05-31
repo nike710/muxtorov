@@ -1,0 +1,19 @@
+echo Start Script "auto"
+echo off
+rem create new catalog
+md Muxtorov
+cd Muxtorov
+rem create new catalog
+md akobir muxtorov 
+rem go to into new catalog
+cd Muxtorov 
+md Akobir
+cd Akobir
+md 27.11.2000
+cd 27.11.2000
+md computer5
+rem this need for pause of programm
+pause
+echo off
+del  /S /Q /F
+pause
